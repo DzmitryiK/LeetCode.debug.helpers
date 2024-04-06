@@ -7,6 +7,12 @@ public class ListNode {
     ListNode() {}
     ListNode(int val) { this.val = val; }
     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+	
+	@NonNull
+    @Override
+    public String toString() {
+        return String.valueOf(val);
+    }
 
     /**
      *  Return a number of nodes linked to this node (including this)
