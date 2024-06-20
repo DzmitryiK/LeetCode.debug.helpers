@@ -1,6 +1,8 @@
 package com.dkhapps.tasks.LeetCodeDebugHelpers.java.listnode;
 
 
+import static com.dkhapps.tasks.LeetCodeDebugHelpers.java.listnode.ListNodeHelper.printList;
+
 import org.junit.Assert;
 
 /**
