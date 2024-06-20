@@ -1,5 +1,5 @@
 # LeetCode Debug Helpers
-Classes and functions that help to debug LeetCode problems in Kava and Kotlin
+Classes and functions that help to debug LeetCode problems in Java and Kotlin
 
 Currently available helpers:
 - [x] ListNode
